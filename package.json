@@ -1,0 +1,11 @@
+{
+  "name": "myhelloapp",
+  "version": "1.0.0",
+  "description": "This is primarily created for section io content on linux services a step by step guide to create a personal cloud server",
+  "main": "myhelloapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rasheed Mudasiru",
+  "license": "MIT"
+}
